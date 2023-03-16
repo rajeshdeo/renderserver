@@ -1,35 +1,17 @@
 {
-    "post": [
+    "hotels":[
         {
-            "id":1,
-            "title":"hello",
-            "isCompleted":false
-        },
-        {
-            "id":2,
-            "title":"myNameisAyuta",
-            "isCompleted":false 
+          "category": "Family",
+          "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+          "type_of_room": "AC",
+          "bed_type": "Double",
+          "no_of_persons":"2",
+          "capacity":"3",
+          "cost":"4000",
+          "booked":false
         }
-    ],
-    
-    "users": [
-        { "id": 1, "name":"Naresh Kumar H", "email":"nareshkumarh@live.com", 
-        "password":"pass123", "role": "USER"
-        },
-        { "id": 2, "name":"Tushant", "email":"tushant@gmail.com", 
-            "password":"pass123", "role": "ADMIN"
-        },
-        { "id": 3, "name":"Tushant", "email":"tushant@gmail.com", 
-            "password":"pass123", "role": "ADMIN"
-        }
-    ],
-    "accounts":[
-
-    ],
-    "transactions":[
-
-    ]
-
-    
-
+      ],
+      "users":[
+        
+      ]
 }
